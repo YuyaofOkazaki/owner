@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "logic-pro": {
+      "command": "LogicProMCP",
+      "env": {
+        "LOGIC_PRO_BUNDLE_ID": "com.apple.logic10"
+      }
+    }
+  }
+}
